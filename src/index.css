@@ -21,3 +21,17 @@
 .App-intro {
   font-size: large;
 }
+
+.dempokes {
+  display: flex;
+  flex-wrap: wrap;
+ }
+
+.iu-cards {
+  padding: 10px;
+  border: 15px;
+  display: wrap;
+  margin-left: 25px;
+  margin-right: 25px;
+
+}

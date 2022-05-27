@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "this should work",
+      "hp": 69420,
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/mew.gif",
+        "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/mew.gif"
+      },
+      "id": 151
     }
   ]
 }
